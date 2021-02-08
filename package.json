@@ -1,0 +1,19 @@
+{
+  "name": "factorial_tdd_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "mocha TDD_test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
