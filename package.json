@@ -4,7 +4,7 @@
   "description": "",
   "main": "factorial.js",
   "scripts": {
-    "test": "mocha TDD_test/*.js"
+    "test": "mocha TDD-test/*.js"
   },
   "keywords": [],
   "author": "",
