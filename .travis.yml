@@ -4,5 +4,5 @@ node_js:
   - "stable"
 
 cache: npm
-  directories:
-    - node_modules
+  # directories:
+  #   - node_modules
