@@ -43,7 +43,6 @@ const Factorial= answer =>{
     }catch (err){
         console.log('Failed to test the code');
     }
-    
 };
 
 
